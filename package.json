@@ -1,0 +1,26 @@
+{
+  "name": "testing-yargs",
+  "version": "1.0.0",
+  "description": "Just playing around with npm yargs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AcehilmAbegrr/testing-yargs.git"
+  },
+  "keywords": [
+    "testing",
+    "yargs"
+  ],
+  "author": "Michael Garber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AcehilmAbegrr/testing-yargs/issues"
+  },
+  "homepage": "https://github.com/AcehilmAbegrr/testing-yargs#readme",
+  "devDependencies": {
+    "yargs": "^14.2.0"
+  }
+}
